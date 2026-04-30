@@ -108,6 +108,13 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wasiq55/wasiq55/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+
 ## ✨ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
